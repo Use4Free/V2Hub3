@@ -1,7 +1,7 @@
-trojan://cfa36789-94aa-4c4c-ad06-ab35a8eb9312@tw2.233235.xyz:725?security=tls&headerType=none&type=tcp#TW🇹🇼 | tw2.233235.xyz-725 | 290.67ms
-trojan://cfa36789-94aa-4c4c-ad06-ab35a8eb9312@1sg04.170203.xyz:718?security=tls&headerType=none&type=tcp#SG🇸🇬 | 1sg04.170203.xyz-718 | 179.8ms
-trojan://auto@172.67.68.157:443?path=%2F&security=tls&host=e9464f45.trauma-2r4.pages.dev&type=ws&sni=e9464f45.trauma-2r4.pages.dev#RELAY🚩 | e9464f45.trauma-2r4.pages.dev-443 | 12.83ms
-trojan://auto@172.67.2.238:2083?path=%2F&security=tls&host=e9464f45.trauma-2r4.pages.dev&type=ws&sni=e9464f45.trauma-2r4.pages.dev#RELAY🚩 | e9464f45.trauma-2r4.pages.dev-2083 | 2.76ms
-trojan://auto@162.159.136.232:8443?path=%2F&security=tls&host=e9464f45.trauma-2r4.pages.dev&type=ws&sni=e9464f45.trauma-2r4.pages.dev#RELAY🚩 | e9464f45.trauma-2r4.pages.dev-8443 | 2.6ms
-trojan://JiFAKwJXpj@148.135.45.121:45093?type=tcp&security=none#US🇺🇸 | 148.135.45.121-45093 | 8.57ms
-trojan://19c80ce9-0935-41b9-b077-277621316a87@hidd2.afsharidempire.uk:443?path=%2FVOkcnRNFk1Gfjd07ui73LZgwx8s&security=tls&alpn=h2&host=hidd2.afsharidempire.uk&fp=chrome&type=ws&sni=hidd2.afsharidempire.uk#NL🇳🇱 | hidd2.afsharidempire.uk-443 | 152.46ms
+trojan://cfa36789-94aa-4c4c-ad06-ab35a8eb9312@tw2.233235.xyz:725?security=tls&headerType=none&type=tcp#TW🇹🇼 | tw2.233235.xyz-725 | 143.42ms
+trojan://cfa36789-94aa-4c4c-ad06-ab35a8eb9312@1sg04.170203.xyz:718?security=tls&headerType=none&type=tcp#SG🇸🇬 | 1sg04.170203.xyz-718 | 179.42ms
+trojan://auto@172.67.68.157:443?path=%2F&security=tls&host=e9464f45.trauma-2r4.pages.dev&type=ws&sni=e9464f45.trauma-2r4.pages.dev#RELAY🚩 | e9464f45.trauma-2r4.pages.dev-443 | 15.29ms
+trojan://auto@172.67.2.238:2083?path=%2F&security=tls&host=e9464f45.trauma-2r4.pages.dev&type=ws&sni=e9464f45.trauma-2r4.pages.dev#RELAY🚩 | e9464f45.trauma-2r4.pages.dev-2083 | 2.51ms
+trojan://auto@162.159.136.232:8443?path=%2F&security=tls&host=e9464f45.trauma-2r4.pages.dev&type=ws&sni=e9464f45.trauma-2r4.pages.dev#RELAY🚩 | e9464f45.trauma-2r4.pages.dev-8443 | 2.43ms
+trojan://JiFAKwJXpj@148.135.45.121:45093?type=tcp&security=none#US🇺🇸 | 148.135.45.121-45093 | 8.82ms
+trojan://19c80ce9-0935-41b9-b077-277621316a87@hidd2.afsharidempire.uk:443?path=%2FVOkcnRNFk1Gfjd07ui73LZgwx8s&security=tls&alpn=h2&host=hidd2.afsharidempire.uk&fp=chrome&type=ws&sni=hidd2.afsharidempire.uk#NL🇳🇱 | hidd2.afsharidempire.uk-443 | 168.15ms
