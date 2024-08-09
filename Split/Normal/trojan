@@ -1,5 +1,4 @@
-trojan://sharevpn@tr1.mynode.work.gd:443?security=tls&alpn=http%2F1.1&headerType=none&fp=chrome&type=tcp&sni=tr1.mynode.work.gd#SG🇸🇬 | tr1.mynode.work.gd-443 | 346.74ms
-trojan://auto@104.21.90.210:2053?path=%2F&security=tls&host=e9464f45.trauma-2r4.pages.dev&type=ws&sni=e9464f45.trauma-2r4.pages.dev#RELAY🚩 | e9464f45.trauma-2r4.pages.dev-2053 | 71.47ms
-trojan://TurbooServer@107.189.31.164:2083?security=none&headerType=none&type=tcp#LU🇱🇺 | 107.189.31.164-2083 | 173.29ms
-trojan://CI3olZiurt@germany.raspberryip.com:14412?type=grpc&security=tls&sni=germany.raspberryip.com&alpn=h2%2Chttp%2F1.1&fp=chrome#JO🇯🇴 | germany.raspberryip.com-14412 | 209.75ms
-trojan://865bc912-0b17-4bd1-b711-958d77232689@coal.zichuanlan.top:443?security=tls&headerType=none&type=tcp&sni=coal.zichuanlan.top#HK🇭🇰 | coal.zichuanlan.top-443 | 418.08ms
+trojan://sharevpn@tr1.mynode.work.gd:443?security=tls&alpn=http%2F1.1&headerType=none&fp=chrome&type=tcp&sni=tr1.mynode.work.gd#SG🇸🇬 | tr1.mynode.work.gd-443 | 4023.65ms
+trojan://auto@104.21.90.210:2053?path=%2F&security=tls&host=e9464f45.trauma-2r4.pages.dev&type=ws&sni=e9464f45.trauma-2r4.pages.dev#RELAY🚩 | e9464f45.trauma-2r4.pages.dev-2053 | 63.12ms
+trojan://TurbooServer@107.189.31.164:2083?security=none&headerType=none&type=tcp#LU🇱🇺 | 107.189.31.164-2083 | 107.83ms
+trojan://865bc912-0b17-4bd1-b711-958d77232689@coal.zichuanlan.top:443?security=tls&headerType=none&type=tcp&sni=coal.zichuanlan.top#HK🇭🇰 | coal.zichuanlan.top-443 | 429.81ms
